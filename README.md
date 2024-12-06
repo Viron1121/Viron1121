@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Viron Navarro! 👋  
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who loves crafting delightful web and mobile experiences, building scalable applications, and solving problems creatively.
 
