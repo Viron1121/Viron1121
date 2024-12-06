@@ -39,13 +39,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 - **🌐 Web Applications:** Scalable and responsive applications with seamless user experiences.  
 - **📱 Mobile Apps:** Hybrid and native apps using **React Native**.  
 - **🔒 Secure Systems:** Applications with robust authentication (e.g., **JWT**) and secure practices.  
-- **🤖 Machine Learning Models:** Turning ideas into intelligent solutions using **TensorFlow**.  
-
----
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- **🤖 Machine Learning Models:** Turning ideas into intelligent solutions using **TensorFlow**.
 
 ---
 
