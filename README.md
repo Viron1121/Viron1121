@@ -44,11 +44,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who
 ---
 
 ## 📫 Let's Connect!  
-![Handshake GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)  
+![Handshake GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWduOHcwbWtnZWxsenY5azE4ZWh3N2tlMzB3eG1zeGwxMW9ycnVrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cGDgkEeqA78Q/giphy.webp)  
 
-- 🌐 [Portfolio Website]([https://viron1121.github.io/DigitalResume/])  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/viron-navarro-182704287/])  
-- 🐦 [Facebook]([https://www.facebook.com/phunghoatrien])  
+- 🌐 [Portfolio Website](https://viron1121.github.io/DigitalResume/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/viron-navarro-182704287/)  
+- 🐦 [Facebook](https://www.facebook.com/phunghoatrien)  
 
 ---
 
