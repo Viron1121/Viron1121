@@ -1,4 +1,20 @@
+
+
 # 🌟 Hi, I'm Viron Navarro! 👋  
+
+## Video Introduction
+https://drive.google.com/file/d/1hL_h81ogX3WTTUGg4PS7z9U1wFFz0C-3/view
+
+## Portfolio
+https://vironnavarro.viron3210.workers.dev
+
+## Projects
+- Project 1 – rarejob.co.jp
+- Project 2 – rarejob.com.ph
+
+## Tech Stack
+Node.js, Laravel, React, MySQL
+
 
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** 🚀 who thrives on building seamless applications, collaborating in teams, and architecting scalable microservices.
